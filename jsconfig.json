@@ -1,0 +1,8 @@
+// Set import alias so that @ references the root of the repo
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}

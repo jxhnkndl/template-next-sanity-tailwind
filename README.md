@@ -1,2 +1,2 @@
 # template-next-sanity-tailwind
-Next.js + TailwindCSS + Sanity.io app template
+Starter template repo for websites developed using Next.js + TailwindCSS + Sanity.io
